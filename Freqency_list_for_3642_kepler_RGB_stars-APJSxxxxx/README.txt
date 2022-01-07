@@ -1,4 +1,4 @@
-The csv file contains radial mode frequencies of 3,624 Kepler RGB stars. 
+The csv file contains radial mode frequencies of 3,624 Kepler RGB stars in a recently submitted paper. 
 
 Columns:
 KIC: KIC ID
