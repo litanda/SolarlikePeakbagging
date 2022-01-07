@@ -14,7 +14,7 @@ Any questions about the code or Frequency lists, please raise an ISSUE in this r
 # Catations:
 If you use the code in publications, please cite  
 
-Li Y., Bedding, T. R., Li, T., et al. 2020b, MNRAS, 495,483, doi: 10.1093/mnras/staa1335
+Li Y., Bedding, T. R., Li, T., et al. 2020, MNRAS, 495,483, doi: 10.1093/mnras/staa1335
 
 @article{10.1093/mnras/staa1335,
     author = {Li, Yaguang and Bedding, Timothy R and Li, Tanda and Bi, Shaolan and Stello, Dennis and Zhou, Yixiao and White, Timothy R},
