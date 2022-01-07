@@ -16,4 +16,4 @@ PTelnK: uncertainty of significance of detection
 
 Note:
 
-Although we screened most stars in our sample and found the frequencies reliable, it is possible that a few of the stars have incorrect results since they were returned from an automatic pipeline. They do not affect the conclusion regarding the scaling relations because of their small number. However, if a reader wishes to use the frequency for a particular star, they should carefully vet them before use.
+Although we screened most stars in our sample and found the frequencies reliable, it is possible that a few of the stars have incorrect results since they were returned from an automatic pipeline. They do not affect results of population studies because of their small number. However, if readers wish to use the frequency for any particular stars, they should carefully vet them before use.
