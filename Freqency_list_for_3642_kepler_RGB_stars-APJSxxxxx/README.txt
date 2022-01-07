@@ -11,7 +11,7 @@ PTlw: line width of the mode
 PTelw: uncertainty of the line width
 PTfc: mode frequency
 PTefc: uncertainty of mode frequency
-PTlnK: significance of detection (>5 means the signal is significantly strong)
+PTlnK: significance of detection (lnK >= 5 means the signal is significantly strong)
 PTelnK: uncertainty of significance of detection 
 
 Note:
